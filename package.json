@@ -26,7 +26,7 @@
   "homepage": "https://github.com/Anarios/return-youtube-dislike#readme",
   "devDependencies": {
     "@babel/core": "^7.20.12",
-    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-env": "^7.20.2",
     "@babel/runtime": "^7.20.13",
     "babel-loader": "^8.2.3",
     "copy-webpack-plugin": "^10.2.0",
