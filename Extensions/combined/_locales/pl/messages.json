@@ -1,0 +1,134 @@
+{
+  "extensionName": {
+    "message": "Return YouTube Dislike"
+  },
+  "extensionNameBeta": {
+    "message": "Return YouTube Dislike Beta"
+  },
+  "extensionDesc": {
+    "message": "Przywróć wyświetlanie niepolubień"
+  },
+  "textDeveloper": {
+    "message": "stworzone przez Dmitry Selivanov i społeczność"
+  },
+  "linkWebsite": {
+    "message": "Strona"
+  },
+  "linkFAQ": {
+    "message": "FAQ"
+  },
+  "linkDonate": {
+    "message": "Wsparcie"
+  },
+  "linkHelp": {
+    "message": "Pomoc"
+  },
+  "linkChangelog": {
+    "message": "Lista zmian"
+  },
+  "legendSettings": {
+    "message": "Ustawienia"
+  },
+  "textSettings": {
+    "message": "Wyłącz przesyłanie polubień/niepolubień"
+  },
+  "textLikesDisabled": {
+    "message": "Wyłączone przez twórcę"
+  },
+  "textSettingsHover": {
+    "message": "Przestaje zliczać Twoje polubienia i niepolubienia."
+  },
+  "textRoundingNumbers": {
+    "message": "Zaokrąglij w dół statystyki polubień/niepolubień (domyślne zachowanie YouTube)"
+  },
+  "textRoundingNumbersHover": {
+    "message": "Pokaż statystyki zaokrąglone w dół."
+  },
+  "textConsistentFormat": {
+    "message": "Ujednolica format polubień i niepolubień"
+  },
+  "textConsistentFormatHover": {
+    "message": "Zmień format polubień."
+  },
+  "textNumberFormat": {
+    "message": "Format liczb:"
+  },
+  "textColorizeRatioBar": {
+    "message": "Pokoloruj pasek proporcji"
+  },
+  "textColorizeRatioBarHover": {
+    "message": "Używaj własnych kolorów dla paska proporcji."
+  },
+  "textColorizeThumbs": {
+    "message": "Pokoloruj kciuki"
+  },
+  "textColorizeThumbsHover": {
+    "message": "Używaj własnych kolorów dla ikon kciuków."
+  },
+  "textColorTheme": {
+    "message": "Kolor motywu:"
+  },
+  "textColorTheme1": {
+    "message": "Klasyczny"
+  },
+  "textColorTheme2": {
+    "message": "Ułatwionej dostępności"
+  },
+  "textColorTheme3": {
+    "message": "Neon"
+  },
+  "textTempUnavailable": {
+    "message": "Niedostępne tymczasowo"
+  },
+  "textUpdate": {
+    "message": "Zaktualizuj do"
+  },
+  "version30installed": {
+    "message": "Wersja 3.0.0.1 zainstalowana"
+  },
+  "whatsnew": {
+    "message": "Co nowego"
+  },
+  "shortsSupport": {
+    "message": "Obsługa YouTube Shorts"
+  },
+  "customColors": {
+    "message": "Niestandardowe kolory dla paska i przycisków niepolubień"
+  },
+  "customNumberFormats": {
+    "message": "Niestandardowy format liczb"
+  },
+  "considerDonating": {
+    "message": "Jedyną co utrzymuje działanie tego rozszerzenia to są wasze darowizny, prosimy o rozważenie wsparcia projektu."
+  },
+  "roundNumbers": {
+    "message": "Pokaż liczby zaokrąglone w dół"
+  },
+  "roundNumbersHover": {
+    "message": "Zaokrąglij liczby w dół (domyślne zachowanie YouTube)."
+  },
+  "reformatLikes": {
+    "message": "Zmień format liczby polubień"
+  },
+  "reformatLikesHover": {
+    "message": "Ujednolica format polubień i niepolubień"
+  },
+  "numberFormat": {
+    "message": "Format liczb:"
+  },
+  "colorizeRatio": {
+    "message": "Pokoloruj pasek proporcji"
+  },
+  "colorizeRatioHover": {
+    "message": "Używaj własnego koloru dla paska proporcji."
+  },
+  "colorizeThumbs": {
+    "message": "Pokoloruj kciuki"
+  },
+  "colorizeThumbsHover": {
+    "message": "Używaj własnego koloru dla ikon kciuków."
+  },
+  "colorTheme": {
+    "message": "Kolor motywu:"
+  }
+}
